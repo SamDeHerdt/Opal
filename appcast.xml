@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Opal</title>
+    <description>Updates for Opal</description>
+    <language>en</language>
+    <item>
+      <title>Version 2.5.0</title>
+      <pubDate>Fri, 24 Jul 2026 13:13:30 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Two additions in this release:
+
+Download subtitles online — for any video that doesn't have them. Pick a language from the captions menu (or Playback ▸ Download Subtitle) and Opal fetches a matching subtitle from SUBDL, saves it next to the video, and loads it right away. Needs a free SUBDL API key, which Opal asks for once (create an account at subdl.com and copy your key from the API page).
+
+Episode list for video — a season folder or playlist now gets a glass side panel (the film-strip button in the control bar) listing every file with the current one highlighted; tap to jump. The Up Next card leads by 2 minutes on long videos so it appears during the end credits.]]></description>
+      <enclosure url="https://github.com/SamDeHerdt/Opal/releases/download/v2.5.0/Opal-2.5.0.zip"
+                 sparkle:version="28"
+                 sparkle:shortVersionString="2.5.0"
+                 length="17967627"
+                 type="application/octet-stream"
+                 sparkle:edSignature="WGdU0+69DVylld7RJU4p8n25WnPqi1nHFWhYoLF9q3vt9kazT9KJCfEnxqFF6WmBsC9w3JXAX/2m/Xy6F++0BQ==" />
+    </item>
+  </channel>
+</rss>
