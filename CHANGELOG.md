@@ -1,5 +1,10 @@
 # Opal — Version History
 
+## 2.5.1 — 2026-10-14
+- New update-signing key. Copies on 2.5.0 or earlier can't install updates automatically
+  any more: they show "a new version is available" with a link — install this DMG once,
+  and automatic updates work again from here on.
+
 ## 2.5.0 — 2026-07-24
 - Download subtitles online for videos that don't have them: pick a language
   from the captions menu (or Playback ▸ Download Subtitle) and Opal fetches a

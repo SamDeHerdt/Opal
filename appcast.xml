@@ -5,20 +5,20 @@
     <description>Updates for Opal</description>
     <language>en</language>
     <item>
-      <title>Version 2.5.0</title>
-      <pubDate>Fri, 24 Jul 2026 13:13:30 +0000</pubDate>
+      <title>Version 2.5.1</title>
+      <link>https://github.com/SamDeHerdt/Opal/releases/tag/v2.5.1</link>
+      <pubDate>Wed, 14 Oct 2026 16:48:01 +0000</pubDate>
+      <sparkle:informationalUpdate>
+        <sparkle:belowVersion>29</sparkle:belowVersion>
+      </sparkle:informationalUpdate>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Two additions in this release:
-
-Download subtitles online — for any video that doesn't have them. Pick a language from the captions menu (or Playback ▸ Download Subtitle) and Opal fetches a matching subtitle from SUBDL, saves it next to the video, and loads it right away. Needs a free SUBDL API key, which Opal asks for once (create an account at subdl.com and copy your key from the API page).
-
-Episode list for video — a season folder or playlist now gets a glass side panel (the film-strip button in the control bar) listing every file with the current one highlighted; tap to jump. The Up Next card leads by 2 minutes on long videos so it appears during the end credits.]]></description>
-      <enclosure url="https://github.com/SamDeHerdt/Opal/releases/download/v2.5.0/Opal-2.5.0.zip"
-                 sparkle:version="28"
-                 sparkle:shortVersionString="2.5.0"
-                 length="17967627"
+      <description><![CDATA[New update-signing key. If you're on 2.5.0 or earlier, install this version once from the DMG below — after that, updates install automatically again.]]></description>
+      <enclosure url="https://github.com/SamDeHerdt/Opal/releases/download/v2.5.1/Opal-2.5.1.zip"
+                 sparkle:version="29"
+                 sparkle:shortVersionString="2.5.1"
+                 length="17877250"
                  type="application/octet-stream"
-                 sparkle:edSignature="WGdU0+69DVylld7RJU4p8n25WnPqi1nHFWhYoLF9q3vt9kazT9KJCfEnxqFF6WmBsC9w3JXAX/2m/Xy6F++0BQ==" />
+                 sparkle:edSignature="SSI8aLceNGLwxIe3pll41wdL1tMc+7lsbJwBS8sdfLOMzN6SHXXoCtCZKdgGv0jdsnArroc+ak/+XWf1j1P1Aw==" />
     </item>
   </channel>
 </rss>
