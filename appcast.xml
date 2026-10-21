@@ -5,20 +5,20 @@
     <description>Updates for Opal</description>
     <language>en</language>
     <item>
-      <title>Version 2.5.1</title>
-      <link>https://github.com/SamDeHerdt/Opal/releases/tag/v2.5.1</link>
-      <pubDate>Wed, 14 Oct 2026 16:48:01 +0000</pubDate>
+      <title>Version 2.6.0</title>
+      <link>https://github.com/SamDeHerdt/Opal/releases/tag/v2.6.0</link>
+      <pubDate>Wed, 21 Oct 2026 12:15:08 +0000</pubDate>
       <sparkle:informationalUpdate>
         <sparkle:belowVersion>29</sparkle:belowVersion>
       </sparkle:informationalUpdate>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[New update-signing key. If you're on 2.5.0 or earlier, install this version once from the DMG below — after that, updates install automatically again.]]></description>
-      <enclosure url="https://github.com/SamDeHerdt/Opal/releases/download/v2.5.1/Opal-2.5.1.zip"
-                 sparkle:version="29"
-                 sparkle:shortVersionString="2.5.1"
-                 length="17877250"
+      <description><![CDATA[A new home screen with your recents on a stage, living backgrounds, vinyl, tape and CD decks for music, a full equalizer with headphone profiles, Skip Intro and Credits, captions made on your Mac, Hue lights in step with the picture, trackpad scrubbing and pinch to fill the screen, chapter marks and chapter skipping, VoiceOver support for the player, and the screen no longer sleeping mid-film. Full list in the changelog.]]></description>
+      <enclosure url="https://github.com/SamDeHerdt/Opal/releases/download/v2.6.0/Opal-2.6.0.zip"
+                 sparkle:version="30"
+                 sparkle:shortVersionString="2.6.0"
+                 length="41060042"
                  type="application/octet-stream"
-                 sparkle:edSignature="SSI8aLceNGLwxIe3pll41wdL1tMc+7lsbJwBS8sdfLOMzN6SHXXoCtCZKdgGv0jdsnArroc+ak/+XWf1j1P1Aw==" />
+                 sparkle:edSignature="/U3nac3y0sh9qZzbIYniaCi80QcdGaB3SbUL285rwDV3OApfV+4jPUeg05cdpOOO+E8o0KjUfIZsG2I9k/tTDw==" />
     </item>
   </channel>
 </rss>
